@@ -1,2 +1,3 @@
 first change
 made changes in helper
+changed in feature1
