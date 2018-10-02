@@ -1,3 +1,4 @@
 first change
 
 changed in feature1
+changed in feature2
